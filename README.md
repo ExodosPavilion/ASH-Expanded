@@ -7,3 +7,6 @@ This projects was created for 4 reasons:
  - To learn more about self hosting
  - To learn flutter
  - To learn how to create a website
+
+# Site URL
+https://ash-expanded.exoserver.net/#/
