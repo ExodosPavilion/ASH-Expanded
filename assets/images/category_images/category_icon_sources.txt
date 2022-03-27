@@ -168,7 +168,6 @@ Pastebins
 	https://www.flaticon.com/premium-icon/paste_1834087?related_id=1834036&origin=search
 
 Personal Dashboards
-	https://www.flaticon.com/free-icon/user-interface_2857469?related_id=2857591&origin=search
 	https://www.flaticon.com/premium-icon/dashboard_1991007
 
 Photo and Video Galleries
@@ -176,7 +175,6 @@ Photo and Video Galleries
 
 Polls and Events
 	https://www.flaticon.com/free-icon/ballot_1533932?related_id=1533927&origin=search
-	https://www.flaticon.com/free-icon/calendar_3771060?related_id=3771178&origin=search
 
 Proxy
 	https://www.flaticon.com/free-icon/database_5139707?related_id=5139721&origin=search
@@ -214,17 +212,15 @@ Software Development
 
 	Software Development - FaaS and Serverless
 		https://www.flaticon.com/premium-icon/miscellaneous_3052305
-		https://www.flaticon.com/free-icon/programming_2758624
 
 	Software Development - IDE and Tools
 		https://www.flaticon.com/free-icon/repair_1652290?related_id=1652223&origin=search
 
 	Software Development - Localization
-		https://www.flaticon.com/free-icon/translate_3771320?related_id=3771484&origin=search
+		https://www.flaticon.com/premium-icon/documents_4951722
 
 	Software Development - Project Management
 		https://www.flaticon.com/free-icon/project-management_4844346
-		https://www.flaticon.com/free-icon/project-management_1087927?related_id=1087815&origin=search
 
 	Software Development - UX Testing
 		https://www.flaticon.com/free-icon/experience_1693756?related_id=1693867&origin=search
