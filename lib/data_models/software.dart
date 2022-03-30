@@ -14,7 +14,7 @@ class MajorSoftwareCategory {
   String name = "";
   bool majorCategory = false;
   Links? links;
-  List<Software>? items;
+  List? items;
 
   MajorSoftwareCategory({
     required this.name,
@@ -24,11 +24,17 @@ class MajorSoftwareCategory {
   });
 
   factory MajorSoftwareCategory.fromJson(Map<String, dynamic> json) {
+    //print("MajorSoftwareCategory");
     var jsonCopy = json;
+    List tempList = [];
 
-    List<Software> tempList = [];
-    jsonCopy["items"]
-        .forEach((key, value) => (tempList.add(Software.fromJson(value))));
+    jsonCopy["items"].forEach((key, value) {
+      if (json["major-category"]) {
+        tempList.add(MajorSoftwareCategory.fromJson(value));
+      } else {
+        tempList.add(Software.fromJson(json));
+      }
+    });
 
     return MajorSoftwareCategory(
       name: json["name"] as String,
@@ -53,6 +59,8 @@ class Software {
   });
 
   factory Software.fromJson(Map<String, dynamic> json) {
+    //print("Software");
+
     return Software(
       name: json["name"] as String,
       majorCategory: json["major-category"] as bool,

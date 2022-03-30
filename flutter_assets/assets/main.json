@@ -1079,8 +1079,8 @@
                     "related": []
                 },
                 "items": {
-                    "Ba\u00efkal": {
-                        "name": "Ba\u00efkal",
+                    "Baikal": {
+                        "name": "Baikal",
                         "website": "https://sabre.io/baikal/",
                         "description": "Lightweight CalDAV and CardDAV server based on sabre/dav.",
                         "hosted_demo": false,
@@ -2340,10 +2340,10 @@
                                 "other-links": [],
                                 "license": "AGPL-3.0"
                             },
-                            "": {
+                            "Postal": {
                                 "name": "",
                                 "website": "https://postal.atech.media/",
-                                "description": "Postal - Fully featured open source mail delivery platform for incoming and outgoing e-mail.",
+                                "description": "Fully featured open source mail delivery platform for incoming and outgoing e-mail.",
                                 "hosted_demo": false,
                                 "demo": "",
                                 "oss": true,
@@ -2395,10 +2395,10 @@
                             "related": []
                         },
                         "items": {
-                            "": {
+                            "Afterlogic WebMail Lite": {
                                 "name": "",
                                 "website": "https://afterlogic.org/webmail-lite",
-                                "description": "Afterlogic WebMail Lite - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.",
+                                "description": "Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.",
                                 "hosted_demo": true,
                                 "demo": "https://lite.afterlogic.com/",
                                 "oss": true,
@@ -13743,7 +13743,7 @@
                 "demo": "",
                 "oss": true,
                 "source": "https://github.com/outline/outlines",
-                "other-link": [],
+                "other-links": [],
                 "license": "BSD-3-Clause"
             },
             "Pepperminty Wiki": {

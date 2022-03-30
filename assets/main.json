@@ -1079,8 +1079,8 @@
                     "related": []
                 },
                 "items": {
-                    "Ba\u00efkal": {
-                        "name": "Ba\u00efkal",
+                    "Baikal": {
+                        "name": "Baikal",
                         "website": "https://sabre.io/baikal/",
                         "description": "Lightweight CalDAV and CardDAV server based on sabre/dav.",
                         "hosted_demo": false,
@@ -13743,7 +13743,7 @@
                 "demo": "",
                 "oss": true,
                 "source": "https://github.com/outline/outlines",
-                "other-link": [],
+                "other-links": [],
                 "license": "BSD-3-Clause"
             },
             "Pepperminty Wiki": {

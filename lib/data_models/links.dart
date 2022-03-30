@@ -18,6 +18,7 @@ class Links {
   });
 
   factory Links.fromJson(Map<String, dynamic> json) {
+    //print("Links");
     return Links(
       redirectTo: json["redirect-to"] as String,
       seeAlso: json["see-also"].cast<String>() as List<String>,

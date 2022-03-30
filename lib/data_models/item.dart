@@ -16,7 +16,7 @@
   "license": "Apache-2.0"
 },
 */
-import 'otherLinks.dart';
+import 'other_links.dart';
 
 class Items {
   List<Item> items;
@@ -26,6 +26,8 @@ class Items {
   });
 
   factory Items.fromJson(Map<String, dynamic> json) {
+    //print("Items");
+
     List<Item> tempItems = [];
     json.forEach((key, value) {
       var temp = Item.fromJson(value);
@@ -62,6 +64,8 @@ class Item {
   });
 
   factory Item.fromJson(Map<String, dynamic> json) {
+    //print("Item");
+
     return Item(
       name: json["name"],
       website: json["website"],
